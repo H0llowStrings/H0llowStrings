@@ -17,9 +17,9 @@
 
 <td align="left">
 
-<h2>H0llowPuppet</h2>
+<h2>𝐇0ᥣᥣⱺω𝐒𝗍𝗋𝗂𐓣𝗀𝗌</h2>
 
-<i>Marion the Puppet.</i>
+<i>𝐌α𝗋𝗂ⱺ𐓣 𝗍ɦ𝖾 𝐏υρρ𝖾𝗍.</i>
 
 <br><br>
 
