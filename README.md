@@ -11,7 +11,8 @@
 
 <td width="220" align="center">
 
-<img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/1a4593bc446462beb31631c5322c739f6ddbc5ea/IMG_6371.jpeg" width="180">
+<img src="
+  https://github.com/H0llowStrings/H0llowStrings/blob/290009be8347db69f4b96c782999b58f4a59202f/Sans%20titre%20386_20260801220522.jpeg" width="180">
 
 </td>
 
