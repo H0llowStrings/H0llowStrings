@@ -22,6 +22,9 @@
 <i>𝐌α𝗋𝗂ⱺ𐓣 𝗍ɦ𝖾 𝐏υρρ𝖾𝗍.</i>
 
 <br><br>
+<i>𝒰𝓃𝒹ℯ𝓇 14 𝒹𝓃𝒾, 𝒮ℯ𝓁ℯ𝒸𝓉𝒾𝓋ℯ ℱℴ𝓁𝓁ℴ𝓌, 𝐼𝓌𝒸</i>
+
+<br><br> 
 
 <a href="https://rentry.co/tonlien">rentry</a> •
 <a href="https://straw.page/@tonpseudo">strawpage</a>
