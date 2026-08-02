@@ -8,7 +8,7 @@
 
 ✦ ──── 🪡 ──── ✦
 <p align="left">
-  <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/e893de6bac990b8bd88b56b57362f1af9159bf17/53973D55-7AEE-4F23-BE2B-A885C928886E.gif" width="90">
+  <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/e893de6bac990b8bd88b56b57362f1af9159bf17/53973D55-7AEE-4F23-BE2B-A885C928886E.gif" width="260">
 </p>
 <p align="right">
   <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/e598c636e0364f5ae795657939c153b82a79aad2/Sans%20titre%20400_20260802030603.jpeg" width="220">
