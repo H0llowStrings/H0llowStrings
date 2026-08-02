@@ -23,5 +23,3 @@
   <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/726e5bf8a6be8c2123b5c6aa28360d65e2f080aa/Sans%20titre%20400_20260802025646.jpeg" width="170">
   <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/726e5bf8a6be8c2123b5c6aa28360d65e2f080aa/Sans%20titre%20400_20260802025459.jpeg" width="170">
 </p>
-
-![](https://github.com/H0llowStrings/H0llowStrings/blob/338ef19ffa3ca691ba6ad9b35f140c03d1c72181/Sans%20titre%20399_20260801222621.jpeg)
