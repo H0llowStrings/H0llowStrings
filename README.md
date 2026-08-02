@@ -2,7 +2,6 @@
 <p align="center">
 
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
-
 </p>
 <p align="right">
 ✦ ──── 🪡 ──── ✦
