@@ -4,7 +4,7 @@
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
 </p>
-<p align="center">
+<p align="right">
 
 ✦ ──── 🪡 ──── ✦
 <p align="right">
