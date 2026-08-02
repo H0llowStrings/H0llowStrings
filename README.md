@@ -6,7 +6,7 @@
 </p>
 <p align="right">
 ✦ ──── 🪡 ──── ✦
-<p align="left">
+<p align="right">
   <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/e893de6bac990b8bd88b56b57362f1af9159bf17/53973D55-7AEE-4F23-BE2B-A885C928886E.gif" width="90">
 </p>
 <p align="center">
