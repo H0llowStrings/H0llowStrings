@@ -1,6 +1,5 @@
 ![](https://github.com/H0llowStrings/H0llowStrings/blob/35643db0a3cb32a3ad0c29bad7a35a99dc9c84f9/Sans%20titre%20399_20260801222621.jpeg)
 <p align="center">
-
 ⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 </p>
 <p align="right">
@@ -9,7 +8,6 @@
 <p align="right">
   <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/e893de6bac990b8bd88b56b57362f1af9159bf17/53973D55-7AEE-4F23-BE2B-A885C928886E.gif" width="90">
 </p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/7fae4d5b41fba8477c5cb918af8f62a715e34f31/Sans%20titre%20400_20260802221520.jpeg" width="260">
 </p>
