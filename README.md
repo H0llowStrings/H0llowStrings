@@ -1,1 +1,5 @@
 ![](https://github.com/H0llowStrings/H0llowStrings/blob/35643db0a3cb32a3ad0c29bad7a35a99dc9c84f9/Sans%20titre%20399_20260801222621.jpeg)
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=24&duration=3500&pause=1200&color=1B2F5B&center=true&vCenter=true&width=900&lines=%F0%9D%96%82%E1%A5%B1%E1%A5%B2k%E1%A5%92%E1%A5%B1ss+%D1%96s+s%E1%A5%99%E1%A5%B4%D2%BB+%E1%A5%B2%E1%A5%92+%E1%A5%99g%E1%A5%A3%E1%A5%A1+%E1%A5%B2%E1%A5%B4%E1%A5%B4%E1%A5%B1ss%E1%A5%86r%E1%A5%A1.;%F0%9D%95%BC%E1%A5%99%E1%A5%B1%E1%A5%A3%E1%A5%A3%E1%A5%B1+%D2%BB%E1%A5%86rr%E1%A5%B1%E1%A5%99r%E2%80%A6+%F0%9D%95%B4+%E1%A5%B2%E1%A5%A3m%E1%A5%86s%E1%B5%97+%F0%9D%96%BF%E1%A5%B1%E1%A5%A3%E1%B5%97+s%E1%A5%86rr%E1%A5%A1+%F0%9D%96%BF%E1%A5%86r+%E1%A5%A1%E1%A5%86%E1%A5%99.;%F0%9D%95%B0%E1%A5%8E%E1%A5%B1r%E1%A5%A1%E1%A5%B6%E1%A5%92%E1%A5%B1+%D2%BB%E1%A5%B2s+s%E1%B5%97r%D1%96%E1%A5%92gs.+%F0%9D%95%B8%D1%96%E1%A5%92%E1%A5%B1+%E1%A5%B2r%E1%A5%B1+s%D1%96m%E2%8D%B4%E1%A5%A3%E1%A5%A1+%E2%8D%B4r%E1%A5%B1%E1%B5%97%E1%B5%97%D1%96%E1%A5%B1r+%E1%B5%97%D2%BB%E1%A5%B2%E1%A5%92+%E1%A5%A1%E1%A5%86%E1%A5%99rs."/>
+</p>
