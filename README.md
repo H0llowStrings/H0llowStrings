@@ -21,11 +21,3 @@
   <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/726e5bf8a6be8c2123b5c6aa28360d65e2f080aa/Sans%20titre%20400_20260802025646.jpeg" width="170">
   <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/726e5bf8a6be8c2123b5c6aa28360d65e2f080aa/Sans%20titre%20400_20260802025459.jpeg" width="170">
 </p>
-
-<div align="center">
-
-# 🎧 Currently Listening
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=TON_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/...)
-
-</div>
