@@ -28,6 +28,6 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/1pnXMEGyw85jtg9fFZf4GP?si=oSRNbJ0vR7anT0-xj6ZI2g">
-    <img src="https://img.shields.io/badge/Spotify-Now%20Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q2sj5s5l3d7r5p2g5w5x5w5w5w&cover_image=true&theme=novatorem&show_offline=false&background_color=0b2d4a&interchange=true&bar_color=1db954&bar_color_cover=false" />
   </a>
 </p>
