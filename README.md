@@ -21,8 +21,12 @@
   <a href="https://marion.atabook.org/">
     <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/726e5bf8a6be8c2123b5c6aa28360d65e2f080aa/Sans%20titre%20400_20260802025700.jpeg" width="170" alt="AtaBook">
   </a>
-  <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/726e5bf8a6be8c2123b5c6aa28360d65e2f080aa/Sans%20titre%20400_20260802025657.jpeg" width="170">
-  <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/726e5bf8a6be8c2123b5c6aa28360d65e2f080aa/Sans%20titre%20400_20260802025646.jpeg" width="170">
+  <p align="">
+  <a href="https://rentry.co/qggoi23p/edit" target="_blank">
+    <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/726e5bf8a6be8c2123b5c6aa28360d65e2f080aa/Sans%20titre%20400_20260802025657.jpeg" width="170" alt="Rentry">
+  </a>
+<a href="https://marionstorytime.straw.page" target="_blank">
+    <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/726e5bf8a6be8c2123b5c6aa28360d65e2f080aa/Sans%20titre%20400_20260802025646.jpeg" width="170" alt="Marion Storytime">
 </a>
   <a href="https://loxiatime.straw.page" target="_blank">
     <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/726e5bf8a6be8c2123b5c6aa28360d65e2f080aa/Sans%20titre%20400_20260802025459.jpeg" width="170" alt="Mon Strawpage">
