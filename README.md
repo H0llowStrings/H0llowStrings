@@ -28,6 +28,3 @@
     <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/726e5bf8a6be8c2123b5c6aa28360d65e2f080aa/Sans%20titre%20400_20260802025646.jpeg" width="170" alt="Strawpage">
   </a>
   <a href="https://loxiatime.straw.page" target="_blank">
-    <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/726e5bf8a6be8c2123b5c6aa28360d65e2f080aa/Sans%20titre%20400_20260802025459.jpeg" width="170" alt="Mon Strawpage">
-  </a>
-</p>
