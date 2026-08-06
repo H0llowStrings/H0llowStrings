@@ -1,13 +1,4 @@
 ![](https://github.com/H0llowStrings/H0llowStrings/blob/35643db0a3cb32a3ad0c29bad7a35a99dc9c84f9/Sans%20titre%20399_20260801222621.jpeg)
-<p align="center">
-⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
-</p>
-<p align="right">
-✦ ──── 🪡 ──── ✦
-</p>
-<p align="right">
-  <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/e893de6bac990b8bd88b56b57362f1af9159bf17/53973D55-7AEE-4F23-BE2B-A885C928886E.gif" width="90">
-</p>
 
 ![Marion](https://github.com/H0llowStrings/H0llowStrings/blob/3ad210d48eca19078d992fc7244e5374e6397226/Sans%20titre%20400_20260806204103.jpeg)
 
