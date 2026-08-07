@@ -5,14 +5,10 @@
    ࣪ ˖⋆˚★ ₊ ⊹　  ࣪˖ ࣪ ₊  ࣪ ˖　
 . ݁　⊹ ࣪ ˖　　　 ࣪ ˖
 　　.  ݁　　　  ݁
-　　. 
-![Marion](https://github.com/H0llowStrings/H0llowStrings/blob/b2933b59876c7afacee50fcc3c6fd73e17642a84/900C1E2B-3A37-4478-BB04-6766116A61DB.png)
-
-%#C98A2E%
+　　. ![Marion](https://github.com/H0llowStrings/H0llowStrings/blob/b2933b59876c7afacee50fcc3c6fd73e17642a84/900C1E2B-3A37-4478-BB04-6766116A61DB.png)
 <p align="center">
 𑣲⋆ ‘’ 𝖀ᥒ𝗍іᥣ ᥡ᥆ᥙr rᥱᑲ᥆rᥒ ‘’ ༝༚༝༚ .՞𐦯
 </p>
-%%
 <p align="center">
   <a href="https://marion.atabook.org/">
     <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/726e5bf8a6be8c2123b5c6aa28360d65e2f080aa/Sans%20titre%20400_20260802025700.jpeg" width="170" alt="AtaBook">
