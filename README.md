@@ -1,5 +1,11 @@
 ![](https://github.com/H0llowStrings/H0llowStrings/blob/fca2725d023b84c2c55843af5bd62441bf19460c/Sans%20titre%20399_20260801222621.jpeg)
-
+┆　┆　┆　┆　┆
+┆　┆  ࣪ ˖☆ ࣪⭑┆ ݁˖ .☆ . ݁ ˖ 
+☆⊹ ࣪ ┆ ˖ ࣪　⊹ ࣪ ★ ⋆.˚  ⊹ ࣪
+   ࣪ ˖⋆˚★ ₊ ⊹　  ࣪˖ ࣪ ₊  ࣪ ˖　
+. ݁　⊹ ࣪ ˖　　　 ࣪ ˖
+　　.  ݁　　　  ݁
+　　. 
 ![Marion](https://github.com/H0llowStrings/H0llowStrings/blob/b2933b59876c7afacee50fcc3c6fd73e17642a84/900C1E2B-3A37-4478-BB04-6766116A61DB.png)
 
 <p align="center">
