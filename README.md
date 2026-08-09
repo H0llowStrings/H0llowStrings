@@ -10,6 +10,11 @@
 𑣲⋆ ‘’ 𝖀ᥒ𝗍іᥣ ᥡ᥆ᥙr rᥱᑲ᥆rᥒ ‘’ ༝༚༝༚ .՞𐦯
 </p>
 <p align="center">
+  <a href="https://open.spotify.com/track/436rx0uUK1blR3G42M1s8p">
+    <img src="https://img.shields.io/badge/♫%20NOW%20PLAYING-String%20Theory-E8A84E?style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
+</p>
+<p align="center">
   <a href="https://marion.atabook.org/">
     <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/726e5bf8a6be8c2123b5c6aa28360d65e2f080aa/Sans%20titre%20400_20260802025700.jpeg" width="170" alt="AtaBook">
   </a>
