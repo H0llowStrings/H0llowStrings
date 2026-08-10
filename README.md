@@ -10,6 +10,9 @@
   <img src="https://blinkies.cafe/b/display/0186-angelsmiley.gif" width="100">
   <img src="https://blinkies.cafe/b/display/0191-fallleaves.gif" width="100">
 </p>
+
+<p align="center">
+  <img 
 𑣲𝄞  “𝘜𝘯𝘵𝘪𝘭 𝘺𝘰𝘶𝘳 𝘳𝘦𝘣𝘰𝘳𝘯”𓏽⑅ ⠀3 
  ⠀ 
  
