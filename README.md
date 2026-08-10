@@ -5,6 +5,9 @@
   <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/b9531b8d691379d0273db377d4fe052477cdfc06/Sans%20titre%20400_20260810203556.jpeg" width="250">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/2b446eaaa69bd1bb06efbe75e282396ed8effb72/Sans%20titre%20412_20260810140816.jpeg" width="150">
+</p>
 <div align="center">
 
 𑣲𝄞 “𝘜𝘯𝘵𝘪𝘭 𝘺𝘰𝘶𝘳 𝘳𝘦𝘣𝘰𝘳𝘯”𓏽⑅
