@@ -10,6 +10,17 @@
   <img src="https://blinkies.cafe/b/display/0186-angelsmiley.gif" width="100">
   <img src="https://blinkies.cafe/b/display/0191-fallleaves.gif" width="100">
 </p>
+𑣲𝄞  “𝘜𝘯𝘵𝘪𝘭 𝘺𝘰𝘶𝘳 𝘳𝘦𝘣𝘰𝘳𝘯”𓏽⑅ ⠀3 
+ ⠀ 
+ 
+ ⠀ 
+⠀⠀⠀⠀⠀. 𐔌՞ ܸ16y ܸ՞𐦯 ⠀ ㅤㅤ˙ㅤ 
+⠀⠀﹒ 𖣠 . 𝕸᥆s𝗍ᥣᥡ 𝕯ᥒіᥙ𝖿/𝕯ᥒіᥙіძ. 𝖂2і 𝕱rᥱᥱᥣᥡ
+         , 𝕮+𝕳 𝖂һᥱᥒ іm ᥲ𝖿k 𝕯ᥒᥴ/ᑲ᥆𝗍һ ㅤ˙ㅤ 
+⠀⠀⠀⠀˙ ִֶָ. ..𓂃 ࣪ ִֶָ ་༘ㅤㅤ⠀… 𝟶𝟷/𝟶𝟷 ִֶָ. . .𓂃 ࣪ ִֶָ🪽་༘࿐
+⠀⠀⠀﹒⌗ 𖾕𖾝꙼ᩚ𛲕𖾟   
+
+(,,>﹏<,,)
 
 ![](https://github.com/H0llowStrings/H0llowStrings/blob/f2d4b11352f36df3877b3fe3873a8e4b10481f58/Sans%20titre%20408_20260809175935.jpeg)
 
