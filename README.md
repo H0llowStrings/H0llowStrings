@@ -1,8 +1,4 @@
 ![](https://github.com/H0llowStrings/H0llowStrings/blob/105d2309eda0a844d190c07395bf525e5050756f/Sans%20titre%20412_20260810111923.jpeg)
-
 <p align="center">
-  <span style="color:#315D78;">
-    𝟷𝟼ʏ ɪᴡᴄ, ᴛғᴄ ғᴀɴᴅᴏᴍ, ᴅɴɪ ʜᴀʀʟᴇǫᴜɪɴ, sᴜɢɢᴇsᴛɪᴠᴇs ғʀɪᴇɴᴅs, ᴜɴᴅᴇʀ 𝟷𝟺 ᴅɴɪ, ɪᴡᴄ ᴍɪɴᴏʀs, ʙɪɢ ғɪᴄᴛɪᴠᴇ ᴏғ ᴍʏ ᴏᴄs, ɪ ғᴏʟʟᴏᴡ ʙᴀᴄᴋ & ᴀɴᴅ ɪ ʙʟᴏᴄᴋ ғʀᴇᴇʟʏ 
-    ɪғ ɪ ᴅᴏ ɴᴏᴛ ᴀᴘᴘʀᴇᴄɪᴀᴛᴇ ʏᴏᴜ, ᴛғᴄ ᴏᴄ, ɪ ᴍᴏsᴛʟʏ ʟɪᴋᴇ ᴄʟᴏᴡɴs ᴡʜᴀᴛ ᴄᴀɴ ɪ sᴀʏ
-  </span>
+  <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/9e83aaa43bcfebe60fccf544779ce68b6643c47a/Sans%20titre%20412_20260810122922.jpeg" width="180">
 </p>
