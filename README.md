@@ -10,6 +10,9 @@
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://guns.lol/marions">𝕲𝖚𝖓𝖘</a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/50d1acc8030fb521e4bf8a550b4ccce8f86636e7/IMG_7448.jpeg" width="150">
+</p>
 
 <div align="center">
 
