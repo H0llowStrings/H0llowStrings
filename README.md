@@ -1,1 +1,1 @@
-![](https://github.com/H0llowStrings/H0llowStrings/blob/60d047390bbf4e95f3267b55385e951fc112f349/Sans%20titre%20408_20260809203710.jpeg)
+![](https://github.com/H0llowStrings/H0llowStrings/blob/8b14bf6c413ca85fbf66d84807ffe3252d7d92fc/Sans%20titre%20412_20260810015700.jpeg)
