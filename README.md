@@ -10,3 +10,5 @@
   <img src="https://blinkies.cafe/b/display/0186-angelsmiley.gif" width="100">
   <img src="https://blinkies.cafe/b/display/0191-fallleaves.gif" width="100">
 </p>
+
+![](https://github.com/H0llowStrings/H0llowStrings/blob/f2d4b11352f36df3877b3fe3873a8e4b10481f58/Sans%20titre%20408_20260809175935.jpeg)
