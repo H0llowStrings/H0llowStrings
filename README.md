@@ -24,7 +24,7 @@
 
 </div>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/2b446eaaa69bd1bb06efbe75e282396ed8effb72/Sans%20titre%20412_20260810140816.jpeg" width="150">
+  <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/2b446eaaa69bd1bb06efbe75e282396ed8effb72/Sans%20titre%20412_20260810140816.jpeg" width="350">
 </p>
 
 <p align="center">
