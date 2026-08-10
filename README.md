@@ -2,6 +2,10 @@
   <img src="https://github.com/H0llowStrings/H0llowStrings/blob/c8ef94d40e29825dae91638508ce69ab30f3674f/Sans%20titre%20412_20260810134317.jpeg?raw=true" width="700">
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/b9531b8d691379d0273db377d4fe052477cdfc06/Sans%20titre%20400_20260810203556.jpeg" width="150">
+</p>
+
 <div align="center">
 
 𑣲𝄞 “𝘜𝘯𝘵𝘪𝘭 𝘺𝘰𝘶𝘳 𝘳𝘦𝘣𝘰𝘳𝘯”𓏽⑅
