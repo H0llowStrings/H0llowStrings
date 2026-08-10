@@ -23,6 +23,9 @@
 ﹒⌗ 𖾕𖾝꙼ᩚ𛲕𖾟
 
 </div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/2b446eaaa69bd1bb06efbe75e282396ed8effb72/Sans%20titre%20412_20260810140816.jpeg" width="150">
+</p>
 
 <p align="center">
   <img src="https://github.com/H0llowStrings/H0llowStrings/blob/68942525c7bdadea047a53d0e4e2d98366a1a681/Sans%20titre%20412_20260810134155.jpeg" width="700">
