@@ -6,6 +6,7 @@
     𑣲𝄞 “𝘓𝘰𝘷𝘦 𝘰𝘣𝘵𝘢𝘪𝘯𝘦𝘥 𝘵𝘩𝘳𝘰𝘶𝘨𝘩 𝘪𝘭𝘭𝘶𝘴𝘪𝘰𝘯 𝘪𝘴 𝘯𝘦𝘷𝘦𝘳 𝘳𝘦𝘢𝘭.”ֺּׅ𓏽⑅
   </span>
 </p>
+
 <p align="center">
   <img src="https://blinkies.cafe/b/display/0186-angelsmiley.gif" width="100">
   <img src="https://blinkies.cafe/b/display/0191-fallleaves.gif" width="100">
