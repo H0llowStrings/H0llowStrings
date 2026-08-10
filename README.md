@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://marion.atabook.org/">𝕬𝖙𝖆𝖇𝖔𝖔𝖐 : Atabook</a>
+  <a href="https://marion.atabook.org/">𝕬𝖙𝖆𝖇𝖔𝖔𝖐</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://guns.lol/marions">𝕲𝖚𝖓𝖘 : Guns</a>
+  <a href="https://guns.lol/marions">𝕲𝖚𝖓𝖘</a>
 </p>
 
 <div align="center">
