@@ -20,8 +20,6 @@
   ⠀⠀⠀˙ ִֶָ. ..𓂃 ࣪ ִֶָ ་༘ㅤㅤ⠀… 𝟶𝟷/𝟶𝟷 ִֶָ. . .𓂃 ࣪ ִֶָ🪽་༘࿐
        ⠀⠀⠀﹒⌗ 𖾕𖾝꙼ᩚ𛲕𖾟    
 
-               (,,>﹏<,,)
-
 ![](https://github.com/H0llowStrings/H0llowStrings/blob/f2d4b11352f36df3877b3fe3873a8e4b10481f58/Sans%20titre%20408_20260809175935.jpeg)
 
 <p align="center">
