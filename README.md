@@ -14,7 +14,7 @@
   <a href="https://guns.lol/marions">𝕲𝖚𝖓𝖘</a>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/50d1acc8030fb521e4bf8a550b4ccce8f86636e7/IMG_7448.jpeg" width="150">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/79bb990c3f355cc8b1c2ad248d98a6a667167f09/Sans%20titre%20414_20260811165514.png" width="150">
 </p>
 
 <div align="center">
