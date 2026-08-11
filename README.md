@@ -35,7 +35,7 @@ ${\color{#164B70}\text{﹒⌗ 𖾕𖾝꙼ᩚ𛲕𖾟}}$
 
 </div>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/2b446eaaa69bd1bb06efbe75e282396ed8effb72/Sans%20titre%20412_20260810140816.jpeg" width="350">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/d45df6100921a0aae2d1245a0f956d03293b4df3/Sans%20titre%20414_20260811165514.png" width="350">
 </p>
 
 <p align="center">
