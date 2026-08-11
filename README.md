@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/837d1dd0afce1a123dd1e5c11930e4ba0117bf6d/Sans%20titre%20412_20260810134317.jpeg?raw=true" width="700">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/ec25d3858134aa9102edeff097feea427903fe26/Sans%20titre%20413_20260811163209.png?raw=true" width="700">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/a74a82dc9e79fe862ea54fcc57b7ca93c8135639/BF5CB2CE-0C40-454B-9627-BBD140C1404F.gif" width="50">
