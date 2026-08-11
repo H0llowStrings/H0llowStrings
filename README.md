@@ -19,7 +19,7 @@
 
 <div align="center">
 
-${\color{#164B70}\text{ 𑣲𝄞 “𝘜𝘯𝘵𝘪𝘭 𝘺𝘰𝘶𝘳 𝘳𝘦𝘣𝘰𝘳𝘯”𓏽⑅
+ 𑣲𝄞 “𝘜𝘯𝘵𝘪𝘭 𝘺𝘰𝘶𝘳 𝘳𝘦𝘣𝘰𝘳𝘯”𓏽⑅
 
 3
 
@@ -31,7 +31,7 @@ ${\color{#164B70}\text{ 𑣲𝄞 “𝘜𝘯𝘵𝘪𝘭 𝘺𝘰𝘶𝘳 𝘳�
 ˙ ִֶָ. ..𓂃 ࣪ ִֶָ ་༘ … 𝟶𝟷/𝟶𝟷 ִֶָ. . .𓂃 ࣪ ִֶָ🪽་༘࿐
 
 ﹒⌗ 𖾕𖾝꙼ᩚ𛲕𖾟
-}}$
+
 </div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/2b446eaaa69bd1bb06efbe75e282396ed8effb72/Sans%20titre%20412_20260810140816.jpeg" width="350">
