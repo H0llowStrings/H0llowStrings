@@ -39,5 +39,5 @@ ${\color{#164B70}\text{﹒⌗ 𖾕𖾝꙼ᩚ𛲕𖾟}}$
 </p>
 
 <p align="center">
-  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/68942525c7bdadea047a53d0e4e2d98366a1a681/Sans%20titre%20412_20260810134155.jpeg" width="700">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/0d90674cd48e06f19efdf97cbf1f0aa015945095/Sans%20titre%20413_20260811161720.png" width="700">
 </p>
