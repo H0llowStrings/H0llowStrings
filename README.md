@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/a74a82dc9e79fe862ea54fcc57b7ca93c8135639/BF5CB2CE-0C40-454B-9627-BBD140C1404F.gif" width="50">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/b9531b8d691379d0273db377d4fe052477cdfc06/Sans%20titre%20400_20260810203556.jpeg" width="250">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/fc85543fcba2e1f410d959688a056acdc2992ea9/Sans%20titre%20416_20260811170423.png" width="250">
 </p>
 
 <p align="center">
