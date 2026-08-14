@@ -12,6 +12,7 @@
   <a href="https://marion.atabook.org/">𝕬𝖙𝖆𝖇𝖔𝖔𝖐</a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://guns.lol/marions">𝕲𝖚𝖓𝖘</a>
+  <a href="https://hollowstrings.straw.page">• 𝔖𝔱𝔯𝔞𝔴𝔭𝔞𝔤𝔢</a>
 </p>
 <p align="center">
   <img src="https://github.com/H0llowStrings/H0llowStrings/blob/18d9edad3ec1d85d471620491f1fd4abd12737d6/Sans%20titre%20415_20260811165630.png" width="150">
