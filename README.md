@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/a74a82dc9e79fe862ea54fcc57b7ca93c8135639/BF5CB2CE-0C40-454B-9627-BBD140C1404F.gif" width="50">
 </p>
 <p align="center">
-  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/fc85543fcba2e1f410d959688a056acdc2992ea9/Sans%20titre%20416_20260811170423.png" width="250">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/0a2b934f174826950894c1688ec1f6933dad1a6a/Sans%20titre%20421_20260814183419.png" width="250">
 </p>
 <p align="center">
   <a href="https://marion.atabook.org/">𝕬𝖙𝖆𝖇𝖔𝖔𝖐</a>
