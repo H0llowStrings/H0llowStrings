@@ -1,2 +1,4 @@
 ## Wip/ im lazy ok 
-![](https://github.com/H0llowStrings/H0llowStrings/blob/5cfc582be2c374a1cd187d0fb2735fafc919323b/Sans%20titre%20459_20260905123255.jpeg)
+
+<p align="center">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/fc4e112ff6a968d0130ee31f457d73e9f601cac7/Sans%20titre%20428_0000-07-52_20260825024240.png"width="750">
