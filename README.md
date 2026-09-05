@@ -1,4 +1,4 @@
 
 
 <p align="center">
-  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/196db8c707923fe13c2e1ef02cb40aecf66f473f/Sans%20titre%20459_20260905162427.png="550">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/a692cb074df14e36a64ff233e4cc6a7e0559b015/Sans%20titre%20459_20260905162427.png="550">
