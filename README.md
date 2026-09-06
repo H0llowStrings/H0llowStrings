@@ -9,6 +9,6 @@
 
 im Lazy buzz off 
 
-![](https://github.com/H0llowStrings/H0llowStrings/blob/7a7dcdf1abdf752216265bec629381ca3f581933/Sans%20titre%20459_20260905163542.png)
+![](https://github.com/H0llowStrings/H0llowStrings/blob/36a549481c1b38d494c62eda89349c595a4bb0e0/IMG_9115.png)
 
 Adopt me so evil to suspend me for making Ayano 🥹
