@@ -8,7 +8,3 @@
 
 
 im Lazy buzz off 
-
-![](https://github.com/H0llowStrings/H0llowStrings/blob/36a549481c1b38d494c62eda89349c595a4bb0e0/IMG_9115.png)
-
-Adopt me so evil to suspend me for making Ayano 🥹, it French ok 
