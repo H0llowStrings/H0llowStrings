@@ -29,7 +29,7 @@ ${\color{#D8C19A}\text{yume ship⏖ ༝}}$
 <br>
 <p align="center">
 <p align="center">
-  <img src="httpshttps://github.com/H0llowStrings/H0llowStrings/blob/a8c05d43a78661c3ce8f88bdb95483a17634f2f7/Sans%20titre%20487_20260910211647.png"width="75">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/85fd7e0fc27bdc11f88a53c451df1d36c7f4465c/Sans%20titre%20487_20260910211647.png"width="75">
   
 ${\color{#D8C19A}\text{𝘜𝘯𝘥𝘦𝘳 14 𝘐𝘸𝘤 𝘤𝘶𝘻 𝘪 𝘵𝘢𝘭𝘬 𝘧𝘳𝘦𝘢𝘬𝘪𝘭𝘺 𝘢𝘳𝘰𝘶𝘯𝘥 𝘮𝘺 𝘧𝘳𝘪𝘦𝘯𝘥𝘴}}$<br>
 ${\color{#D8C19A}\text{𝘣𝘶𝘵 𝘥𝘰𝘦𝘴𝘯𝘵 𝘮𝘪𝘯𝘥 𝘪𝘧 𝘪𝘵'𝘴 𝘰𝘯𝘭𝘺 𝘢 𝘧𝘳𝘪𝘦𝘯𝘥𝘭𝘺 𝘪𝘯𝘵 𝘢𝘯𝘥 𝘯𝘰𝘵𝘩𝘪𝘯𝘨 𝘪𝘯𝘷𝘰𝘭𝘷𝘦𝘥 𝘪𝘯 𝘪𝘵.}}$<br><br>
