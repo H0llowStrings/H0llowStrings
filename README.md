@@ -81,7 +81,7 @@ ${\color{#D8C19A}\text{𝘴𝘬𝘪𝘯𝘴. 𝘐 𝘥𝘰 𝘯𝘰𝘵 𝘮𝘢
   <details>
  <summary>❤︎⁠</summary>
  <p align="center">
-  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/d722862f0ffdb0a8faedfeca08ec7369728e588a/Sans%20titre%20470_0000-23-42_20260911002329.png"width="400">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/6acad1f79c5744c189e6dec3a2557a95d3660e32/Sans%20titre%20470_0000-23-42_20260911004722.png"width="400">
 </p>
   <br>
 ${\color{#5B7C8F}\text{𝘚𝘰 𝘣𝘢𝘴𝘪𝘤𝘢𝘭𝘭𝘺 𝘐𝘮 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘈𝘯 𝘔𝘰𝘷𝘪𝘦 𝘰𝘳 𝘔𝘢𝘺𝘣𝘦 𝘢 𝘝𝘪𝘴𝘶𝘢𝘭 𝘕𝘰𝘷𝘦𝘭 }}$<br>
