@@ -65,7 +65,8 @@ ${\color{#D8C19A}\text{𝘚𝘵𝘢𝘭𝘬𝘦𝘳 𝘍𝘢𝘯𝘴,𝘉𝘰�
   &nbsp;&nbsp;꒰&nbsp;&nbsp;
   <a href="https://youtu.be/Nhx9QDuqpDM?si=DsnAK-OfMcMEdGHw">❀</a>
 </p>
-
-  </p>
+<p align="center">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/e7096945e2949ebe83cf49602ef5d657a353f7e6/Sans%20titre%20485_20260910183414.png"width="75">
+</p>
 
 </div>
