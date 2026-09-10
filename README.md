@@ -52,7 +52,7 @@ ${\color{#D8C19A}\text{𝘚𝘵𝘢𝘭𝘬𝘦𝘳 𝘍𝘢𝘯𝘴,𝘉𝘰�
  
  
   
-<img src="https://github.com/H0llowStrings/H0llowStrings/blob/818937f6c4b6d9b9dc2bc95d7cd7f961d700497d/Sans%20titre%20483_20260909224003.png" width="395" align="left">
+<img src="https://github.com/H0llowStrings/H0llowStrings/blob/8a669dc39129ef3a1b972d65bfe5280d86446feb/Sans%20titre%20470_0000-23-52_20260911003030.png" width="395" align="left">
   <p align="center">
   ${\color{#4C2565}\text{  ྀིྀིྀིྀིྀི ◡◡  󠁟 󠁟 󠁟 France /  󠁟 󠁟English.  ◡◡  ྀིྀིྀིྀིྀི}}$
     ${\color{#D8C19A}\text{Artist  󠁟 󠁟 󠁟 · 6teen}}$
