@@ -49,4 +49,4 @@ ${\color{#D8C19A}\text{𝘚𝘵𝘢𝘭𝘬𝘦𝘳 𝘍𝘢𝘯𝘴,𝘉𝘰�
 </div>
 
 <p align="center">
-  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/00008d32afb5ef643452f038f92572c5bf551587/Sans%20titre%20482_20260909222416.png"width="650">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/818937f6c4b6d9b9dc2bc95d7cd7f961d700497d/Sans%20titre%20483_20260909224003.png"width="650">
