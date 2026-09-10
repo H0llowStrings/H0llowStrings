@@ -5,6 +5,6 @@
 
 Marionette / Puppet Kin}}$ · Librarian}}$
 
-yume ship}}$
+${\color{#D8C19A}\text{yume ship}}$
 
 </div>
