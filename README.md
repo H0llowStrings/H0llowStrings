@@ -91,3 +91,6 @@ ${\color{#5B7C8F}\text{, 𝘓𝘰𝘴𝘦𝘳 , 𝘧𝘦𝘦𝘭 𝘧𝘳𝘦�
 
 </details>
 </div>
+<p align="center">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/8fa6c9bc62c349f1827120af77b61130de68efc3/Sans%20titre%20482_20260909222515.png"width="650">
+</p>
