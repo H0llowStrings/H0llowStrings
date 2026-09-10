@@ -3,7 +3,7 @@
 
   ${\color{#D8C19A}\text{◞ She / her}}$  ·  ${\color{#70401F}\text{Asexual / Pansexual}}$ 
 
-Marionette / Puppet Kin}}$ · Librarian}}$
+${\color{#D8C19A}\text{Marionette / Puppet Kin}}$ · Librarian}}$
 
 ${\color{#D8C19A}\text{yume ship}}$
 
