@@ -54,7 +54,7 @@ ${\color{#D8C19A}\text{𝘚𝘵𝘢𝘭𝘬𝘦𝘳 𝘍𝘢𝘯𝘴,𝘉𝘰�
   <p align="center">
   ${\color{#4F4E6B}\text{  ྀིྀིྀིྀིྀི ◡◡  󠁟 󠁟 󠁟 France /  󠁟 󠁟English.  ◡◡  ྀིྀིྀིྀིྀི}}$
     ${\color{#D8C19A}\text{Artist  󠁟 󠁟 󠁟 · 6teen}}$
-   ${\color{#4C2565}\text{Big  󠁟 󠁟Fan  󠁟 󠁟of  󠁟 󠁟My OCs &  󠁟 󠁟My  󠁟 󠁟Artsona }}$ 
+   Big  󠁟 󠁟Fan  󠁟 󠁟of  󠁟 󠁟My OCs &  󠁟 󠁟My  󠁟 󠁟Artsona 
     ꒱ Medieval vibe  󠁟 󠁟 󠁟 · Jester aesthetic ꒰
             My Fictional Darling
                       ᧔ෆ᧓ 
