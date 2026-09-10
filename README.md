@@ -56,7 +56,8 @@ ${\color{#D8C19A}\text{𝘚𝘵𝘢𝘭𝘬𝘦𝘳 𝘍𝘢𝘯𝘴,𝘉𝘰�
     Artist  󠁟 󠁟 󠁟 · 6teen<br>
     Big  󠁟 󠁟Fan  󠁟 󠁟of  󠁟 󠁟My OCs &  󠁟 󠁟My  󠁟 󠁟Artsona  <br>
     ꒱ Medieval vibe  󠁟 󠁟 󠁟 · Jester aesthetic ꒰<br>
-            My Fictional Darling
+            My Fictional Darling<br>
+                      ᧔ෆ᧓ 
   </p>
 
 </div>
