@@ -24,7 +24,7 @@ ${\color{#D8C19A}\text{yume ship⏖ ༝}}$
 <div align="center">
 
 <details>
-<summary>🂡</summary>
+<summary>♠︎</summary>
 
 <br>
 <p align="center">
