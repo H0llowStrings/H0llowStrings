@@ -28,7 +28,9 @@ ${\color{#D8C19A}\text{yume ship⏖ ༝}}$
 
 <br>
 <p align="center">
-
+<p align="center">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/e7096945e2949ebe83cf49602ef5d657a353f7e6/Sans%20titre%20485_20260910183414.png"width="75">
+  
 ${\color{#D8C19A}\text{𝘜𝘯𝘥𝘦𝘳 14 𝘐𝘸𝘤 𝘤𝘶𝘻 𝘪 𝘵𝘢𝘭𝘬 𝘧𝘳𝘦𝘢𝘬𝘪𝘭𝘺 𝘢𝘳𝘰𝘶𝘯𝘥 𝘮𝘺 𝘧𝘳𝘪𝘦𝘯𝘥𝘴}}$<br>
 ${\color{#D8C19A}\text{𝘣𝘶𝘵 𝘥𝘰𝘦𝘴𝘯𝘵 𝘮𝘪𝘯𝘥 𝘪𝘧 𝘪𝘵'𝘴 𝘰𝘯𝘭𝘺 𝘢 𝘧𝘳𝘪𝘦𝘯𝘥𝘭𝘺 𝘪𝘯𝘵 𝘢𝘯𝘥 𝘯𝘰𝘵𝘩𝘪𝘯𝘨 𝘪𝘯𝘷𝘰𝘭𝘷𝘦𝘥 𝘪𝘯 𝘪𝘵.}}$<br><br>
 ${\color{#D8C19A}\text{𝘊+𝘩 𝘧𝘳𝘦𝘦𝘭𝘺 𝘪𝘧 𝘪'𝘮 𝘢𝘭𝘰𝘯𝘦,𝘐𝘸𝘤 𝘛𝘍𝘊 𝘍𝘢𝘯𝘥𝘰𝘮,}}$<br>
