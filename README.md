@@ -73,7 +73,7 @@ ${\color{#D8C19A}\text{𝘚𝘵𝘢𝘭𝘬𝘦𝘳 𝘍𝘢𝘯𝘴,𝘉𝘰�
 
 </div>
 
-<div align="left">
+<div align="centre">
 
 <details>
 <summary>short info</summary>
