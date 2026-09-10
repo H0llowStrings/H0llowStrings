@@ -55,6 +55,6 @@ ${\color{#D8C19A}\text{𝘚𝘵𝘢𝘭𝘬𝘦𝘳 𝘍𝘢𝘯𝘴,𝘉𝘰�
     ྀིྀིྀིྀིྀི ◡◡  󠁟 󠁟 󠁟 France /  󠁟 󠁟English<br>
     Artist  󠁟 󠁟 󠁟 · 6teen<br>
     Big  󠁟 󠁟Fan  󠁟 󠁟of  󠁟 󠁟My OCs &  󠁟 󠁟My  󠁟 󠁟Artsona<br>
-    Medieval vibe  󠁟 󠁟 󠁟 · Jester aesthetic ꒰ ꒱ ꕀ
+    Medieval vibe  󠁟 󠁟 󠁟 · Jester aesthetic ꒰ 
   </p>
 </div>
