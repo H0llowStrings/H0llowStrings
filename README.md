@@ -1,4 +1,7 @@
-![](https://github.com/H0llowStrings/H0llowStrings/blob/0959aef480e51d20f6009828f882882b177ecaf0/Sans%20titre%20482_20260909222416.png)
+<p align="center">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/fc4e112ff6a968d0130ee31f457d73e9f601cac7/Sans%20titre%20428_0000-07-52_20260825024240.png"width="750">
+</p>
+
 <div align="center">
 
   ${\color{#D8C19A}\text{◞ She / her}}$  ·  ${\color{#DAB58D}\text{Asexual / Pansexual}}$ 
