@@ -77,11 +77,8 @@ ${\color{#D8C19A}\text{𝘚𝘵𝘢𝘭𝘬𝘦𝘳 𝘍𝘢𝘯𝘴,𝘉𝘰�
 <div align="center">
 
   <details>
-
-    <summary>❤︎⁠</summary>
-
-
-  <p align="center">
+ <summary>❤︎⁠</summary>
+ <p align="center">
   <img src="https://github.com/H0llowStrings/H0llowStrings/blob/d722862f0ffdb0a8faedfeca08ec7369728e588a/Sans%20titre%20470_0000-23-42_20260911002329.png"width="75">
 </p>
   <br>
