@@ -57,7 +57,15 @@ ${\color{#D8C19A}\text{𝘚𝘵𝘢𝘭𝘬𝘦𝘳 𝘍𝘢𝘯𝘴,𝘉𝘰�
    ${\color{#4C2565}\text{Big  󠁟 󠁟Fan  󠁟 󠁟of  󠁟 󠁟My OCs , My  󠁟 󠁟Artsona }}$
     ${\color{#4C2565}\text{꒱ Medieval vibe  󠁟 󠁟 󠁟 ·}}$  ${\color{#5B7C8F}\text{Jester aesthetic ꒰}}$
             ${\color{#D8C19A}\text{My Fictional Darling}}$
-                     ${\color{#5B7C8F}\text{ ᧔ෆ᧓ }}$
+                     ${\color{#5B7C8F}\text{ ᧔ෆ᧓ }}$<br>
+                       <p align="center">
+  <a href="https://youtu.be/kdR5W5OtkTs?si=hG_iiwH9PUdmfFVW">♔</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://youtu.be/84UfQLzYWws?si=9tmwFNiApmg6iQgw">🃁</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://youtu.be/Nhx9QDuqpDM?si=DsnAK-OfMcMEdGHw">❀</a>
+</p>
+
   </p>
 
 </div>
