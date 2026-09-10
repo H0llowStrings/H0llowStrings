@@ -2,6 +2,8 @@
   <img src="https://github.com/H0llowStrings/H0llowStrings/blob/00008d32afb5ef643452f038f92572c5bf551587/Sans%20titre%20482_20260909222416.png"width="650">
 </p>
 
+[![♛ 59](https://img.shields.io/badge/%E2%99%9B-59-yellow?style=flat-square&labelColor=0B1F3A)](https://github.com/)
+
 <div align="center">
 
   ${\color{#D8C19A}\text{◞ She / her}}$  ·  ${\color{#DAB58D}\text{Asexual / Pansexual}}$ 
