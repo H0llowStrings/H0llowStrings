@@ -14,3 +14,10 @@ ${\color{#4F4E6B}\text{Marionette}}$ ${\color{#D8C19A}\text{/}}$ ${\color{#4C256
 ${\color{#D8C19A}\text{yume ship⏖ ༝}}$
 
 </div>
+<p align="center">
+  <a href="https://marion.atabook.org/">𝖃𝖁</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://hollowstrings.straw.page/">𝖃𝕴𝕴𝕴</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://guns.lol/marions">𝕴𝖃</a>
+</p>
