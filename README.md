@@ -9,7 +9,7 @@
 
   ${\color{#D8C19A}\text{◞ She / her}}$  ·  ${\color{#DAB58D}\text{Asexual / Pansexual}}$ 
 
-${\color{#4F4E6B}\text{Marionette}}$ ${\color{#D8C19A}\text{/}}$ ${\color{#4C2565}\text{Puppet Kin}}$ · ${\color{#5B7C8F}\text{ Librarian}}$
+${\color{#4F4E6B}\text{Marionette}}$ $ ${\color{#4C2565}\text{Puppet Kin}}$ · ${\color{#5B7C8F}\text{ Librarian}}$
 
 ${\color{#D8C19A}\text{yume ship⏖ ༝}}$
 
@@ -54,7 +54,7 @@ ${\color{#D8C19A}\text{𝘚𝘵𝘢𝘭𝘬𝘦𝘳 𝘍𝘢𝘯𝘴,𝘉𝘰�
   <p align="center">
   ${\color{#4F4E6B}\text{  ྀིྀིྀིྀིྀི ◡◡  󠁟 󠁟 󠁟 France /  󠁟 󠁟English.  ◡◡  ྀིྀིྀིྀིྀི}}$
     ${\color{#D8C19A}\text{Artist  󠁟 󠁟 󠁟 · 6teen}}$
-   Big  󠁟 󠁟Fan  󠁟 󠁟of  󠁟 󠁟My OCs &  󠁟 󠁟My  󠁟 󠁟Artsona 
+   ${\color{#4C2565}\text{Big  󠁟 󠁟Fan  󠁟 󠁟of  󠁟 󠁟My OCs &  󠁟 󠁟My  󠁟 󠁟Artsona }}$
     ꒱ Medieval vibe  󠁟 󠁟 󠁟 · Jester aesthetic ꒰
             My Fictional Darling
                       ᧔ෆ᧓ 
