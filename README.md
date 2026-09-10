@@ -21,14 +21,14 @@ ${\color{#D8C19A}\text{yume ship⏖ ༝}}$
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://guns.lol/marions">IX</a>
 </p>
-<p align="center">
+<div align="center">
+
 <details>
 <summary>short info</summary>
 
 <br>
 
-<p align="center">
-  wip
-</p>
-
+wip.
 </details>
+
+</div>
