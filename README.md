@@ -21,17 +21,14 @@ ${\color{#D8C19A}\text{yume ship⏖ ༝}}$
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://guns.lol/marions">IX</a>
 </p>
+<p align="center">
 <details>
 <summary>short info</summary>
 
 <br>
 
 <p align="center">
-  Do not mention c.ai or other apps similar on me.<br>
-  dncopy my ponies and no inspo unless friends.<br>
-  if i dont respond im probably afk/offtab, Then w2i.<br>
-  TFC fans iwec unless friends please.<br>
-  c+h freely even if on DNI or other.
+  wip
 </p>
 
 </details>
