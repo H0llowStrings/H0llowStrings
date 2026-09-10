@@ -77,7 +77,10 @@ ${\color{#D8C19A}\text{𝘚𝘵𝘢𝘭𝘬𝘦𝘳 𝘍𝘢𝘯𝘴,𝘉𝘰�
 <div align="center">
 <details>
 <summary>❤︎⁠</summary>
-<br>
+<p align="center">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/e7096945e2949ebe83cf49602ef5d657a353f7e6/Sans%20titre%20485_20260910183414.png"width="75">
+</p>
+  <br>
 ${\color{#5B7C8F}\text{𝘚𝘰 𝘣𝘢𝘴𝘪𝘤𝘢𝘭𝘭𝘺 𝘐𝘮 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘈𝘯 𝘔𝘰𝘷𝘪𝘦 𝘰𝘳 𝘔𝘢𝘺𝘣𝘦 𝘢 𝘝𝘪𝘴𝘶𝘢𝘭 𝘕𝘰𝘷𝘦𝘭 }}$<br>
 ${\color{#5B7C8F}\text{𝘞𝘩𝘦𝘯 𝘪 𝘞𝘪𝘭𝘭 𝘎𝘦𝘵 𝘔𝘺 𝘗𝘤 𝘐 𝘞𝘪𝘭𝘭 𝘵𝘳𝘺 𝘮𝘺 𝘣𝘦𝘴𝘵 𝘵𝘰 𝘸𝘰𝘳𝘬 𝘰𝘯 𝘪𝘵 𝘈𝘧𝘵𝘦𝘳 𝘚𝘤𝘩𝘰𝘰𝘭 ,}}$<br>
 ${\color{#5B7C8F}\text{𝘠𝘰𝘶 𝘤𝘢𝘯 𝘴𝘵𝘪𝘭𝘭 𝘝𝘪𝘴𝘪𝘵 𝘮𝘺 𝘚𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦}}$ <a href="https://hollowstrings.straw.page/">XIII</a> <br>
