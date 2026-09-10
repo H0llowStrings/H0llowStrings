@@ -76,7 +76,7 @@ ${\color{#D8C19A}\text{𝘚𝘵𝘢𝘭𝘬𝘦𝘳 𝘍𝘢𝘯𝘴,𝘉𝘰�
 <br clear="all">
 <div align="center">
 <details>
-<summary>short info</summary>
+<summary>❤︎⁠</summary>
 <br>
 
   wip.
