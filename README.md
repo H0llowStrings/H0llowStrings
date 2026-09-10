@@ -75,11 +75,14 @@ ${\color{#D8C19A}\text{𝘚𝘵𝘢𝘭𝘬𝘦𝘳 𝘍𝘢𝘯𝘴,𝘉𝘰�
 
 <br clear="all">
 <div align="center">
-<details>
-<summary>❤︎⁠</summary>
+
+  <details>
+
+    <summary>❤︎⁠</summary>
+
 
   <p align="center">
-  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/e7096945e2949ebe83cf49602ef5d657a353f7e6/Sans%20titre%20485_20260910183414.png"width="75">
+  <img src="https://github.com/H0llowStrings/H0llowStrings/blob/d722862f0ffdb0a8faedfeca08ec7369728e588a/Sans%20titre%20470_0000-23-42_20260911002329.png"width="75">
 </p>
   <br>
 ${\color{#5B7C8F}\text{𝘚𝘰 𝘣𝘢𝘴𝘪𝘤𝘢𝘭𝘭𝘺 𝘐𝘮 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘈𝘯 𝘔𝘰𝘷𝘪𝘦 𝘰𝘳 𝘔𝘢𝘺𝘣𝘦 𝘢 𝘝𝘪𝘴𝘶𝘢𝘭 𝘕𝘰𝘷𝘦𝘭 }}$<br>
