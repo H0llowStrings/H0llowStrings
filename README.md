@@ -84,7 +84,7 @@ ${\color{#D8C19A}\text{𝘴𝘬𝘪𝘯𝘴. 𝘐 𝘥𝘰 𝘯𝘰𝘵 𝘮𝘢
   <img src="https://github.com/H0llowStrings/H0llowStrings/blob/6acad1f79c5744c189e6dec3a2557a95d3660e32/Sans%20titre%20470_0000-23-42_20260911004722.png"width="400">
 </p>
   <br>
-${\color{#5B7C8F}\text{𝘚𝘰 𝘣𝘢𝘴𝘪𝘤𝘢𝘭𝘭𝘺 𝘐𝘮 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘈𝘯 𝘔𝘰𝘷𝘪𝘦 𝘰𝘳 𝘔𝘢𝘺𝘣𝘦 𝘢 𝘝𝘪𝘴𝘶𝘢𝘭 𝘕𝘰𝘷𝘦𝘭 }}$<br>
+${\color{#5B7C8F}\text{𝘚𝘰 𝘣𝘢𝘴𝘪𝘤𝘢𝘭𝘭𝘺 𝘐𝘮 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘈𝘯 𝘚𝘵𝘰𝘳𝘺 𝘰𝘳 𝘔𝘢𝘺𝘣𝘦 𝘢 𝘝𝘪𝘴𝘶𝘢𝘭 𝘕𝘰𝘷𝘦𝘭 }}$<br>
 ${\color{#5B7C8F}\text{𝘞𝘩𝘦𝘯 𝘪 𝘞𝘪𝘭𝘭 𝘎𝘦𝘵 𝘔𝘺 𝘗𝘤 𝘐 𝘞𝘪𝘭𝘭 𝘵𝘳𝘺 𝘮𝘺 𝘣𝘦𝘴𝘵 𝘵𝘰 𝘸𝘰𝘳𝘬 𝘰𝘯 𝘪𝘵 𝘈𝘧𝘵𝘦𝘳 𝘚𝘤𝘩𝘰𝘰𝘭 ,}}$<br>
 ${\color{#5B7C8F}\text{𝘠𝘰𝘶 𝘤𝘢𝘯 𝘴𝘵𝘪𝘭𝘭 𝘝𝘪𝘴𝘪𝘵 𝘮𝘺 𝘚𝘵𝘳𝘢𝘸𝘱𝘢𝘨𝘦}}$ <a href="https://hollowstrings.straw.page/">XIII</a> <br>
 ${\color{#5B7C8F}\text{𝘍𝘰𝘳 𝘊𝘩𝘦𝘤𝘬 𝘰𝘶𝘵 𝘵𝘩𝘦 𝘤𝘩𝘢𝘳𝘢𝘤𝘵𝘦𝘳 𝘈𝘯𝘺𝘸𝘢𝘺 𝘵𝘩𝘢𝘵 𝘢𝘭𝘭}}$
