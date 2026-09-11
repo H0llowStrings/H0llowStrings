@@ -57,7 +57,7 @@ ${\color{#D8C19A}\text{𝘴𝘬𝘪𝘯𝘴. 𝘐 𝘥𝘰 𝘯𝘰𝘵 𝘮𝘢
 <img src="https://github.com/H0llowStrings/H0llowStrings/blob/8a669dc39129ef3a1b972d65bfe5280d86446feb/Sans%20titre%20470_0000-23-52_20260911003030.png" width="450" align="left">
   <p align="center">
   ${\color{#4C2565}\text{  ྀིྀིྀིྀིྀི ◡◡  󠁟 󠁟 󠁟 France /  󠁟 󠁟English.  ◡◡  ྀིྀིྀིྀིྀི}}$
-    ${\color{#D8C19A}\text{Artist  󠁟 󠁟 󠁟 · 6teen}}$
+    ${\color{#D8C19A}\text{Artist  󠁟 󠁟 󠁟 · Teenager}}$
    ${\color{#4C2565}\text{Big  󠁟 󠁟Fan  󠁟 󠁟of  󠁟 󠁟My OCs , My  󠁟 󠁟Artsona }}$
     ${\color{#4C2565}\text{꒱ Medieval vibe  󠁟 󠁟 󠁟 ·}}$  ${\color{#5B7C8F}\text{Jester aesthetic ꒰}}$
             ${\color{#D8C19A}\text{My Fictional Darling}}$
