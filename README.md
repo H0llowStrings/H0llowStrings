@@ -24,7 +24,7 @@ ${\color{#D8C19A}\text{yume ship⏖ ༝}}$
 <div align="center">
 
 <details>
-<summary>✦</summary>
+<summary>${\color{#5B7C8F}\text{✦}}$</summary>
 
 <br>
 <p align="center">
@@ -79,7 +79,7 @@ ${\color{#D8C19A}\text{𝘴𝘬𝘪𝘯𝘴. 𝘐 𝘥𝘰 𝘯𝘰𝘵 𝘮𝘢
 <div align="center">
 
   <details>
- <summary>❤︎⁠</summary>
+ <summary>${\color{#5B7C8F}\text{❤︎⁠}}$</summary>
  <p align="center">
   <img src="https://github.com/H0llowStrings/H0llowStrings/blob/6acad1f79c5744c189e6dec3a2557a95d3660e32/Sans%20titre%20470_0000-23-42_20260911004722.png"width="400">
 </p>
