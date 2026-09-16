@@ -67,7 +67,7 @@ ${\color{#D8C19A}\text{𝘴𝘬𝘪𝘯𝘴. 𝘐 𝘥𝘰 𝘯𝘰𝘵 𝘮𝘢
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://youtu.be/84UfQLzYWws?si=9tmwFNiApmg6iQgw">🃁</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://youtu.be/Nhx9QDuqpDM?si=DsnAK-OfMcMEdGHw">❀</a>
+  <a href="https://youtu.be/Nhx9QDuqpDM?si=DsnAK-OfMcMEdGHw">☘︎</a>
 </p>
 <p align="center">
   <img src="https://github.com/H0llowStrings/H0llowStrings/blob/ee6569b4fbc8f590aa47aefd488d8b5c588e360f/Sans%20titre%20490_20260910230624.png"width="150">
