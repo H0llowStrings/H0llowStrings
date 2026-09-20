@@ -45,7 +45,7 @@ ${\color{#5B7C8F}\text{ DNIUF}}$
 
 ${\color{#4C2565}\text{Greenapple.Dnuif, most DNI roleplayers, Harlequin lovers / Harlequin fans, and people who genuinely support any of the things listed above.}}$  
 ${\color{#5B7C8F}\text{(Hazbin Hotel / Helluva Boss DNI / DNIUF)}}$ 
-TFC fandom.}}$
+${\color{#5B7C8F}\text{TFC fandom.}}$
 
 <br>
 
