@@ -33,13 +33,15 @@ ${\color{#D8C19A}\text{yume ship⏖ ༝}}$
   
 <div align="center">
 
-${\color{#5B7C8F}\text{### DNI}}$
+<div align="center">
+
+### DNI
 
 Minor × Adult shippers, sexualizing children, inappropriate / NSFW art involving minors, stalker fans, bodyshaming, racism, misogyny, sexism, homophobia, etc.
 
 <br>
 
-${\color{#5B7C8F}\text{### DNIUF}}$
+### DNIUF
 
 Greenapple.Dnuif, most DNI roleplayers, Harlequin lovers / Harlequin fans, and people who genuinely support any of the things listed above.  
 (Hazbin Hotel / Helluva Boss DNI / DNIUF)  
@@ -47,7 +49,7 @@ TFC fandom.
 
 <br>
 
-${\color{#5B7C8F}\text{### BASIC DNI}}$
+### BASIC DNI
 
 If you’re uncomfortable with my personality or attitude, we probably won’t get along.  
 I can be mean / a ragebaiter around my friends, so please don’t take everything I say seriously.  
@@ -55,18 +57,21 @@ I’m also not always educated on every topic, so feel free to correct me respec
 
 <br>
 
-${\color{#5B7C8F}\text{### ABOUT ME}}$
+### ABOUT ME
 
 Under 14 — I talk pretty freely around my friends, but I’m completely fine with friendly interactions as long as nothing inappropriate is involved.  
 C+H freely if I’m alone.
 
 <br>
 
-${\color{#5B7C8F}\text{### BOUNDARIES}}$
+### BOUNDARIES
 
 Please don’t take inspiration from, copy, or cover me without asking.  
 Friends are an exception if you’ve asked me beforehand.  
 I don’t make skins for people to copy.
+
+</div>
+
 
 </div>
 
