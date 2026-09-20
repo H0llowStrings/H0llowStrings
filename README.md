@@ -37,38 +37,38 @@ ${\color{#D8C19A}\text{yume ship⏖ ༝}}$
 
 ${\color{#5B7C8F}\text{ DNI}}$
 
-Minor × Adult shippers, sexualizing children, inappropriate / NSFW art involving minors, stalker fans, bodyshaming, racism, misogyny, sexism, homophobia, etc.
+${\color{#4C2565}\text{Minor × Adult shippers, sexualizing children, inappropriate / NSFW art involving minors, stalker fans, bodyshaming, racism, misogyny, sexism, homophobia, etc.}}$
 
 <br>
 
 ${\color{#5B7C8F}\text{ DNIUF}}$
 
-Greenapple.Dnuif, most DNI roleplayers, Harlequin lovers / Harlequin fans, and people who genuinely support any of the things listed above.  
+${\color{#4C2565}\text{Greenapple.Dnuif, most DNI roleplayers, Harlequin lovers / Harlequin fans, and people who genuinely support any of the things listed above.  
 (Hazbin Hotel / Helluva Boss DNI / DNIUF)  
-TFC fandom.
+TFC fandom.}}$
 
 <br>
 
 ${\color{#5B7C8F}\text{ BASIC DNI}}$
 
-If you’re uncomfortable with my personality or attitude, we probably won’t get along.  
+${\color{#4C2565}\text{If you’re uncomfortable with my personality or attitude, we probably won’t get along.  
 I can be mean / a ragebaiter around my friends, so please don’t take everything I say seriously.  
-I’m also not always educated on every topic, so feel free to correct me respectfully.
+I’m also not always educated on every topic, so feel free to correct me respectfully.}}$
 
 <br>
 
 ${\color{#5B7C8F}\text{ ABOUT ME}}$
 
-Under 14 — I talk pretty freely around my friends, but I’m completely fine with friendly interactions as long as nothing inappropriate is involved.  
-C+H freely if I’m alone.
+${\color{#4C2565}\text{Under 14 — I talk pretty freely around my friends, but I’m completely fine with friendly interactions as long as nothing inappropriate is involved.  
+C+H freely if I’m alone.}}$
 
 <br>
 
 ${\color{#5B7C8F}\text{ BOUNDARIES}}$
 
-Please don’t take inspiration from, copy, or cover me without asking.  
+${\color{#4C2565}\text{Please don’t take inspiration from, copy, or cover me without asking.  
 Friends are an exception if you’ve asked me beforehand.  
-I don’t make skins for people to copy.
+I don’t make skins for people to copy.}}$
 
 </div>
 
