@@ -51,9 +51,9 @@ ${\color{#5B7C8F}\text{TFC fandom.}}$
 
 ${\color{#5B7C8F}\text{ BASIC DNI}}$
 
-${\color{#4C2565}\text{If you’re uncomfortable with my personality or attitude, we probably won’t get along.  
-I can be mean / a ragebaiter around my friends, so please don’t take everything I say seriously.  
-I’m also not always educated on every topic, so feel free to correct me respectfully.}}$
+${\color{#4C2565}\text{If you’re uncomfortable with my personality or attitude, we probably won’t get along.  }}$
+${\color{#4C2565}\text{I can be mean / a ragebaiter around my friends, so please don’t take everything I say seriously.}}$  
+${\color{#4C2565}\text{I’m also not always educated on every topic, so feel free to correct me respectfully.}}$
 
 <br>
 
