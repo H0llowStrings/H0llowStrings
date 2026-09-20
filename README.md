@@ -31,19 +31,44 @@ ${\color{#D8C19A}\text{yume ship⏖ ༝}}$
 <p align="center">
   <img src="https://github.com/H0llowStrings/H0llowStrings/blob/85fd7e0fc27bdc11f88a53c451df1d36c7f4465c/Sans%20titre%20487_20260910211647.png"width="85">
   
-${\color{#D8C19A}\text{𝘜𝘯𝘥𝘦𝘳 14 𝘐𝘸𝘤 𝘤𝘶𝘻 𝘪 𝘵𝘢𝘭𝘬 𝘧𝘳𝘦𝘢𝘬𝘪𝘭𝘺 𝘢𝘳𝘰𝘶𝘯𝘥 𝘮𝘺 𝘧𝘳𝘪𝘦𝘯𝘥𝘴}}$<br>
-${\color{#D8C19A}\text{𝘣𝘶𝘵 𝘥𝘰𝘦𝘴𝘯𝘵 𝘮𝘪𝘯𝘥 𝘪𝘧 𝘪𝘵'𝘴 𝘰𝘯𝘭𝘺 𝘢 𝘧𝘳𝘪𝘦𝘯𝘥𝘭𝘺 𝘪𝘯𝘵 𝘢𝘯𝘥 𝘯𝘰𝘵𝘩𝘪𝘯𝘨 𝘪𝘯𝘷𝘰𝘭𝘷𝘦𝘥 𝘪𝘯 𝘪𝘵.}}$<br><br>
-${\color{#D8C19A}\text{𝘊+𝘩 𝘧𝘳𝘦𝘦𝘭𝘺 𝘪𝘧 𝘪'𝘮 𝘢𝘭𝘰𝘯𝘦,𝘐𝘸𝘤 𝘛𝘍𝘊 𝘍𝘢𝘯𝘥𝘰𝘮,}}$<br>
-${\color{#D8C19A}\text{𝘐𝘸𝘤/𝘥𝘯𝘪 𝘎𝘳𝘦𝘦𝘯𝘢𝘱𝘱𝘭𝘦.𝘋𝘯𝘶𝘪𝘧 𝘮𝘰𝘴𝘵 𝘰𝘧 𝘵𝘪𝘮𝘦 𝘋𝘯𝘪 𝘳𝘰𝘭𝘦𝘱𝘭𝘢𝘺𝘦𝘳𝘴}}$
-${\color{#D8C19A}\text{𝘉𝘪𝘨𝘨𝘦𝘴𝘵 𝘏𝘢𝘳𝘭𝘦𝘲𝘶𝘪𝘯 𝘢𝘯𝘥 𝘦𝘯𝘦𝘮𝘪𝘦 𝘵𝘰 𝘭𝘰𝘷𝘦𝘳 𝘩𝘢𝘵𝘦𝘳 ,}}$<br>
-${\color{#D8C19A}\text{𝘋𝘯𝘪𝘶𝘧/𝘪𝘸𝘤 𝘪𝘧 𝘴𝘰.𝘉𝘢𝘴𝘪𝘤 𝘋𝘯𝘪,𝘙𝘢𝘤𝘪𝘴𝘮, 𝘔𝘪𝘴𝘰𝘨𝘺𝘯𝘺, 𝘚𝘦𝘹𝘪𝘴𝘮, 𝘏𝘰𝘮𝘰𝘱𝘩𝘰𝘣𝘪𝘢,}}$<br>
-${\color{#D8C19A}\text{𝘢𝘯𝘥 𝘮𝘰𝘳𝘦 𝘪 𝘱𝘳𝘰𝘣𝘢𝘣𝘭𝘺 𝘧𝘰𝘳𝘨𝘰𝘵 𝘢𝘣𝘰𝘶𝘵.}}$
-${\color{#D8C19A}\text{𝘐'𝘮 𝘢 𝘮𝘦𝘢𝘯/𝘳𝘢𝘨𝘦𝘣𝘢𝘪𝘵𝘦𝘳 𝘱𝘦𝘳𝘴𝘰𝘯,𝘴𝘰 𝘋𝘯𝘪 𝘪𝘧 𝘺𝘰𝘶 𝘥𝘰𝘯'𝘵 𝘭𝘪𝘬𝘦 𝘮𝘺 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦,𝘐𝘮 𝘯𝘰𝘵 𝘦𝘥𝘶𝘤𝘢𝘵𝘦𝘥 𝘵𝘩𝘦 𝘴𝘢𝘮𝘦 𝘸𝘢𝘺 𝘢𝘴 𝘺𝘰𝘶.}}$<br>
-${\color{#D8C19A}\text{𝘰𝘳 𝘪𝘧 𝘺𝘰𝘶 𝘤𝘰𝘯𝘴𝘪𝘥𝘦𝘳 𝘺𝘰𝘶𝘳𝘴𝘦𝘭𝘧 𝘴𝘦𝘯𝘴𝘪𝘵𝘪𝘷𝘦.}}$<br>
-${\color{#D8C19A}\text{DNI AT ALL! 𝘔𝘪𝘯𝘰𝘳 𝘹 𝘈𝘥𝘶𝘭𝘵 𝘚𝘩𝘪𝘱𝘱𝘦𝘳𝘴,𝘚𝘦𝘹𝘶𝘢𝘭𝘪𝘻𝘪𝘯𝘨 𝘊𝘩𝘪𝘭𝘥𝘳𝘦𝘯,𝘐𝘯𝘢𝘱𝘱𝘳𝘰𝘱𝘳𝘪𝘢𝘵𝘦 𝘈𝘳𝘵,}}$<br>
-${\color{#D8C19A}\text{𝘚𝘵𝘢𝘭𝘬𝘦𝘳 𝘍𝘢𝘯𝘴,𝘉𝘰𝘥𝘺𝘴𝘩𝘢𝘮𝘪𝘯𝘨. (𝘏𝘢𝘻𝘣𝘪𝘯 𝘏𝘰𝘵𝘦𝘭/𝘏𝘦𝘭𝘭𝘶𝘷𝘢 𝘉𝘰𝘴𝘴 𝘐𝘸𝘤/𝘋𝘯𝘪𝘶𝘧.)}}$
-${\color{#D8C19A}\text{𝘋𝘰 𝘯𝘰𝘵 𝘛𝘢𝘬𝘦 𝘪𝘯𝘴𝘱𝘰/𝘊𝘰𝘱𝘺 𝘰𝘳 𝘊𝘰𝘷𝘦𝘳 𝘮𝘦 𝘐 𝘥𝘰 𝘯𝘰𝘵 𝘭𝘪𝘬𝘦 𝘵𝘩𝘢𝘵 𝘢𝘵 𝘢𝘭𝘭! 𝘜𝘯𝘭𝘦𝘴𝘴 𝘍𝘳𝘪𝘦𝘯𝘥𝘴 + 𝘈𝘴𝘬𝘦𝘥 𝘢𝘯𝘥 𝘎𝘪𝘧𝘵𝘦𝘥}}$
-${\color{#D8C19A}\text{𝘴𝘬𝘪𝘯𝘴. 𝘐 𝘥𝘰 𝘯𝘰𝘵 𝘮𝘢𝘬𝘦 𝘚𝘬𝘪𝘯𝘴 𝘧𝘰𝘳 𝘺𝘰𝘶 𝘵𝘰 𝘤𝘰𝘱𝘺 𝘰𝘬 ?}}$
+<div align="center">
+
+### DNI
+
+Minor × Adult shippers, sexualizing children, inappropriate / NSFW art involving minors, stalker fans, bodyshaming, racism, misogyny, sexism, homophobia, etc.
+
+<br>
+
+### DNIUF
+
+Greenapple.Dnuif, most DNI roleplayers, Harlequin lovers / Harlequin fans, and people who genuinely support any of the things listed above.  
+(Hazbin Hotel / Helluva Boss DNI / DNIUF)  
+TFC fandom.
+
+<br>
+
+### BASIC DNI
+
+If you’re uncomfortable with my personality or attitude, we probably won’t get along.  
+I can be mean / a ragebaiter around my friends, so please don’t take everything I say seriously.  
+I’m also not always educated on every topic, so feel free to correct me respectfully.
+
+<br>
+
+### ABOUT ME
+
+Under 14 — I talk pretty freely around my friends, but I’m completely fine with friendly interactions as long as nothing inappropriate is involved.  
+C+H freely if I’m alone.
+
+<br>
+
+### BOUNDARIES
+
+Please don’t take inspiration from, copy, or cover me without asking.  
+Friends are an exception if you’ve asked me beforehand.  
+I don’t make skins for people to copy.
+
+</div>
 
 </p>
 </details>
