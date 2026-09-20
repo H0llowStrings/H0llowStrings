@@ -59,16 +59,17 @@ ${\color{#4C2565}\text{I’m also not always educated on every topic, so feel fr
 
 ${\color{#5B7C8F}\text{ ABOUT ME}}$
 
-${\color{#4C2565}\text{Under 14 — I talk pretty freely around my friends, but I’m completely fine with friendly interactions as long as nothing inappropriate is involved.  
-C+H freely if I’m alone.}}$
+${\color{#4C2565}\text{Under 14 — I talk pretty freely around my friends, but I’m completely fine}}$
+${\color{#4C2565}\text{with friendly interactions as long as nothing inappropriate is involved.}}$ 
+${\color{#4C2565}\text{C+H freely if I’m alone.}}$
 
 <br>
 
 ${\color{#5B7C8F}\text{ BOUNDARIES}}$
 
-${\color{#4C2565}\text{Please don’t take inspiration from, copy, or cover me without asking.  
-Friends are an exception if you’ve asked me beforehand.  
-I don’t make skins for people to copy.}}$
+${\color{#4C2565}\text{Please don’t take inspiration from, copy, or cover me without asking.}}$  
+${\color{#4C2565}\text{Friends are an exception if you’ve asked me beforehand.}}$  
+${\color{#4C2565}\text{I don’t make skins for people to copy.}}$
 
 </div>
 
