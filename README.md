@@ -61,13 +61,17 @@ ${\color{#D8C19A}\text{ IWC / BYI }}$
 
 ${\color{#4C2565}\text{Under 14: please don’t interact. I’m fine with friendly interactions, but}}$
 ${\color{#4C2565}\text{I’d rather avoid interacting with people under 14 because I’ve been accused}}$
-${\color{#4C2565}\text{of being a predator before simply for talking to younger people, which is}}$
-${\color{#4C2565}\text{ridiculous considering I’m not even an adult myself. I don’t want that}}$
-${\color{#4C2565}\text{kind of misunderstanding happening again.}}$
+${\color{#4C2565}\text{of being a predator before simply for talking to younger people, even though}}$
+${\color{#4C2565}\text{I’m not even an adult myself. That’s why I prefer to avoid misunderstandings.}}$
+
+${\color{#4C2565}\text{I don’t add people randomly. I prefer talking first and getting to know each other}}$
+${\color{#4C2565}\text{before adding, just to see if we get along and are comfortable talking to each other.}}$
+
 ${\color{#4C2565}\text{C+H freely if I’m alone. I don’t really like talking to people who constantly}}$
 ${\color{#4C2565}\text{use brainrot, unless you’re mature enough to understand certain things.}}$
 
 <br>
+
 
 ${\color{#D8C19A}\text{ BOUNDARIES}}$
 
