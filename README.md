@@ -77,7 +77,7 @@ ${\color{#D8C19A}\text{ BOUNDARIES}}$
 
 ${\color{#4C2565}\text{Please don’t take inspiration from, copy, or cover me without asking.}}$  
 ${\color{#4C2565}\text{Friends are an exception if you’ve asked me beforehand.}}$  
-${\color{#4C2565}\text{I don’t make skins for people to copy.}}$
+${\color{#4C2565}\text{I don’t make skins for people to copy.unless gifts }}$
 
 </div>
 
