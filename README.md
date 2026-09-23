@@ -59,9 +59,13 @@ ${\color{#4C2565}\text{I’m also not always educated on every topic, so feel fr
 
 ${\color{#D8C19A}\text{ ABOUT ME}}$
 
-${\color{#4C2565}\text{Under 14 — I talk pretty freely around my friends, but I’m completely fine}}$
-${\color{#4C2565}\text{with friendly interactions as long as nothing inappropriate is involved.}}$ 
-${\color{#4C2565}\text{C+H freely if I’m alone.}}$
+${\color{#4C2565}\text{Under 14: please don’t interact. I’m fine with friendly interactions, but}}$
+${\color{#4C2565}\text{I’d rather avoid interacting with people under 14 because I’ve been accused}}$
+${\color{#4C2565}\text{of being a predator before simply for talking to younger people, which is}}$
+${\color{#4C2565}\text{ridiculous considering I’m not even an adult myself. I don’t want that}}$
+${\color{#4C2565}\text{kind of misunderstanding happening again.}}$
+${\color{#4C2565}\text{C+H freely if I’m alone. I don’t really like talking to people who constantly}}$
+${\color{#4C2565}\text{use brainrot, unless you’re mature enough to understand certain things.}}$
 
 <br>
 
