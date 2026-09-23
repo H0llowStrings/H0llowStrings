@@ -57,7 +57,7 @@ ${\color{#4C2565}\text{I’m also not always educated on every topic, so feel fr
 
 <br>
 
-${\color{#D8C19A}\text{ ABOUT ME}}$
+${\color{#D8C19A}\text{ IWC / BYI }}$
 
 ${\color{#4C2565}\text{Under 14: please don’t interact. I’m fine with friendly interactions, but}}$
 ${\color{#4C2565}\text{I’d rather avoid interacting with people under 14 because I’ve been accused}}$
