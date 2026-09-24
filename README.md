@@ -17,7 +17,7 @@ ${\color{#D8C19A}\text{yume ship⏖ ༝}}$
 <p align="center">
   <a href="https://marion.atabook.org/">XV</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://hollowstrings.straw.page/">XIII</a>
+  <> Wip!</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://guns.lol/marions">IX</a>
 </p>
