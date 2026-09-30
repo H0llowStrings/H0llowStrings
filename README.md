@@ -93,7 +93,7 @@ ${\color{#4C2565}\text{I don’t make skins for people to copy.unless gifts }}$
  
  
   
-<img src="https://github.com/H0llowStrings/H0llowStrings/blob/b53aa880da595793caafea8e3f74101fe43c1b29/Sans%20titre%20512_20260930121600.png" width="450" align="left">
+<img src="https://github.com/H0llowStrings/H0llowStrings/blob/0c53c18f04e6bd21d0dd064ad346f2079cd1ce88/Sans%20titre%20512_20260930131845.png" width="450" align="left">
   <p align="center">
   ${\color{#4C2565}\text{  ྀིྀིྀིྀིྀི ◡◡  󠁟 󠁟 󠁟 France /  󠁟 󠁟English.  ◡◡  ྀིྀིྀིྀིྀི}}$
     ${\color{#D8C19A}\text{Artist  󠁟 󠁟 󠁟 · Teenager}}$
