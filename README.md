@@ -19,7 +19,7 @@ ${\color{#D8C19A}\text{yume ship⏖ ༝}}$
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <Wip!</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://guns.lol/marions">IX</a>
+  <a href="https://guns.lol/marions">𝕲𝖚𝖓𝖘.𝖑𝖔𝖑</a>
 </p>
 <div align="center">
 
