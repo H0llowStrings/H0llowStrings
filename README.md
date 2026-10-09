@@ -15,7 +15,7 @@ ${\color{#D8C19A}\text{yume ship⏖ ༝}}$
 
 </div>
 <p align="center">
-  <a href="https://marion.atabook.org/">XV</a>
+  <a href="https://marion.atabook.org/">𝕬𝖙𝖆𝖇𝖔𝖔𝖐</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <Wip!</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
