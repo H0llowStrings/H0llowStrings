@@ -35,3 +35,9 @@
     <img src="https://img.youtube.com/vi/XhKZ2zvPhbo/maxresdefault.jpg" width="350" alt="Regarder la vidéo">
   </a>
 </p>
+
+<div align="center">
+  <p style="color: #ecefbf;">
+    Us Core · #GirlsDad
+  </p>
+</div>
