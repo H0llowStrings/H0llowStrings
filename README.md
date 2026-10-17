@@ -42,7 +42,7 @@
 <p align="center">
 ${\color{#F6FFEB}\text{  ྀིྀིྀིྀིྀི ◡◡     France /   English.  ◡◡  ྀིྀིྀིྀིྀི}}$<br/>
 ${\color{#7AA49E}\text{Artist     · Teenager}}$<br/>
-${\color{#D4E6DD}\text{ dniuf Vesnica , Kin  . capitano Daughter }}$<br/>
+${\color{#D4E6DD}\text{ dni Vesnica , Kin  . capitano Daughter }}$<br/>
 ${\color{#4C9489}\text{꒱ Medieval vibe     ·}}$ ${\color{#F6FFEB}\text{ fae aesthetic ꒰}}$
 </p>
 
