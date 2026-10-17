@@ -30,11 +30,10 @@
   </a>
 </div>
 
-
 <div align="center">
 <table>
 <tr>
-<td width="50%" align="center" valign="middle">
+<td width="30%" align="center" valign="middle">
 
 <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/a0488b61927e699a144597cec20fa1dfbe3b4482/Sans%20titre%20515_20261017193745.png" width="100%"/>
 
@@ -48,7 +47,7 @@ ${\color{#4C9489}\text{꒱ Medieval vibe     ·}}$ ${\color{#F6FFEB}\text{ fae a
 </p>
 
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="70%" align="center" valign="middle">
 
 <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/a0488b61927e699a144597cec20fa1dfbe3b4482/Sans%20titre%20515_20261017193534.png" width="100%"/>
 
