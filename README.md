@@ -20,7 +20,7 @@
   
   </a>
 
- <img src="https://github.com/TsaritsaRightHand/TsaritsaRightHand/blob/2db1d1ab072c6ee2fcdda2c2adeaf7a28f4ae634/IMG_9640.jpeg?raw=true" width="50">
+ <img src="https://github.com/H0llowStrings/H0llowStrings/blob/4098158cf3cdab32acec5c7d67e25b4dfb88c7b8/Sans%20titre%20515_20261017200921.png" width="50">
 </p>
 
  </a>
