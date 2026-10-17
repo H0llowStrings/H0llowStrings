@@ -30,21 +30,23 @@
   </a>
 </div>
 
+
 <table>
   <tr>
-    <td width="40%" align="center" valign="top">
+    <td align="center" width="40%" valign="top">
       <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/a0488b61927e699a144597cec20fa1dfbe3b4482/Sans%20titre%20515_20261017193745.png" width="100%" />
 
+      <br/>
+
       <p align="center">
-        ${\color{#F6FFEB}\text{  ྀིྀིྀིྀིྀི ◡◡     France /   English.  ◡◡  ྀིྀིྀིྀིྀི}}$  
-        ${\color{#7AA49E}\text{Artist     · Teenager}}$  
-        ${\color{#D4E6DD}\text{ dniuf Vesnica , Kin  . capitano Daughter }}$  
+        ${\color{#F6FFEB}\text{  ྀིྀིྀིྀིྀི ◡◡     France /   English.  ◡◡  ྀིྀིྀིྀིྀི}}$<br/>
+        ${\color{#7AA49E}\text{Artist     · Teenager}}$<br/>
+        ${\color{#D4E6DD}\text{ dniuf Vesnica , Kin  . capitano Daughter }}$<br/>
         ${\color{#4C9489}\text{꒱ Medieval vibe     ·}}$ ${\color{#F6FFEB}\text{ fae aesthetic ꒰}}$
       </p>
     </td>
-    <td width="60%" align="center" valign="middle">
+    <td align="center" width="60%" valign="middle">
       <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/a0488b61927e699a144597cec20fa1dfbe3b4482/Sans%20titre%20515_20261017193534.png" width="100%" />
     </td>
   </tr>
 </table>
-
