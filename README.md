@@ -30,39 +30,3 @@
   </a>
 </div>
 
-
-<table>
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/a0488b61927e699a144597cec20fa1dfbe3b4482/Sans%20titre%20515_20261017193745.png" width="150" alt="Vesna" />
-
-      <p align="center">
-        ${\color{#F6FFEB}\text{  ྀིྀིྀིྀིྀི ◡◡     France /   English.  ◡◡  ྀིྀིྀིྀིྀི}}$<br/>
-        ${\color{#7AA49E}\text{Artist     · Teenager}}$<br/>
-        ${\color{#D4E6DD}\text{ dniuf Vesnica , Kin  . capitano Daughter }}$<br/>
-        ${\color{#4C9489}\text{꒱ Medieval vibe     ·}}$  ${\color{#F6FFEB}\text{ fae aesthetic ꒰}}$
-      </p>
-    </td>
-    <td width="62%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/a0488b61927e699a144597cec20fa1dfbe3b4482/Sans%20titre%20515_20261017193534.png" width="400" alt="Danica" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/a0488b61927e699a144597cec20fa1dfbe3b4482/Sans%20titre%20515_20261017193745.png" width="150" alt="Vesna" />
-
-      <p align="center">
-        ${\color{#F6FFEB}\text{  ྀིྀིྀིྀིྀི ◡◡     France /   English.  ◡◡  ྀིྀིྀིྀིྀི}}$<br/>
-        ${\color{#7AA49E}\text{Artist     · Teenager}}$<br/>
-        ${\color{#D4E6DD}\text{ dniuf Vesnica , Kin  . capitano Daughter }}$<br/>
-        ${\color{#4C9489}\text{꒱ Medieval vibe     ·}}$  ${\color{#F6FFEB}\text{ fae aesthetic ꒰}}$
-      </p>
-    </td>
-    <td width="62%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/H0llowStrings/H0llowStrings/a0488b61927e699a144597cec20fa1dfbe3b4482/Sans%20titre%20515_20261017193534.png" width="400" alt="Danica" />
-    </td>
-  </tr>
-</table>
